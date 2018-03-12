@@ -1,0 +1,49 @@
+.container-fluid {
+    margin: 15px;
+    background: #000000;
+}
+
+#header {
+	color: lightgrey;
+    text-align: center;
+    background: #000000;
+}
+
+.img-thumbnail {
+	color: pink;
+    text-align: center;
+    margin: 3px;
+    margin-top: 10px;
+    border: 3px ridge pink;
+}
+
+footer {
+    padding-left: 33%;
+    padding-right: 33%;
+}
+
+
+form,
+input {
+    color: black;
+    text-align: center;
+    padding-left: 33%;
+    padding-right: 33%;
+    border-radius: 10px;
+}
+
+#gifs-appear-here {
+    color: pink;
+    float: left;
+    text-align: center;
+}
+
+.btn-primary {	
+    border: 3px ridge pink;
+	margin: 3px;
+}
+
+.nameSomeone{
+    margin: 10px;
+    background-color: lightgrey;
+}
